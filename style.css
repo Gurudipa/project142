@@ -1,0 +1,22 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+   
+}
+
+
+
+canvas
+{
+ border: 10px ,solid rgb(14, 10, 2);
+ border-radius: 20px;
+}
